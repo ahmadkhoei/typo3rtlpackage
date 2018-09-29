@@ -1,2 +1,2 @@
 # typo3rtlpackage
-Typo3 for bootstrap package for RTL languages
+Typo3 bootstrap package for RTL languages
